@@ -1,0 +1,24 @@
+# saipavan77308
+package april;
+
+public class ifelse1 {
+	public static void main(String[] args) {
+	int X  = 800;
+	int Y = 500;
+	int Z = 200;
+	if (X > Y ) {	
+		System.out.print(X);
+	}else if (Y > Z) { 
+		System.out.print(Y);
+		
+	}else if (X > Z) {
+		System.out.print(X);
+	}else {
+		System.out.print(Z);
+	}
+		
+	
+	}	
+	
+
+}
